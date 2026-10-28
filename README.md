@@ -15,6 +15,7 @@ I work with research data: joining records that do not agree, building statistic
 |---|---|
 | [Complaint capacity forecasting](https://github.com/S3R3Bii/complaint-capacity-forecasting) | SQL lineage, 102 aggregate source snapshots, 15-model comparison, forward validation and asymmetric decision costs |
 | [Acceleration reconstruction across roads](https://github.com/S3R3Bii/brake-signal-transfer) | SQL trajectory lineage, an 18-candidate model search, separate road holdouts and independently recomputed MSE, RMSE, precision and recall |
+| [Funding-alert burden](https://github.com/S3R3Bii/funding-alert-burden) | Reconciled public-rate SQL joins, forward-only robust monitoring, complete parameter trials and independent later-period checks |
 | [PostgreSQL data integrity](https://github.com/S3R3Bii/postgresql-data-integrity) | Transactional loading, replay idempotency, CTEs and window queries; 11 SQL assertions checked against an independent Python calculation |
 | [Universal EDA](https://github.com/S3R3Bii/universal-eda) | Configurable Python diagnostics, preprocessing and report generation, with a reproducible usage guide |
 | [Visual project gallery](https://github.com/S3R3Bii/project-portfolio) | Research, analytical applications and product interfaces, including PikiVu screenshots and the 50-study research register |
