@@ -11,9 +11,16 @@ I work with research data: joining records that do not agree, building statistic
 
 ## Work to explore
 
-My [portfolio](https://james-jean-data-science.s3r3bii.chatgpt.site) includes professional research, independent financial-data and optimization projects, and graduate work. Project pages distinguish their data, methods and validation.
+| Project | Evidence to inspect |
+|---|---|
+| [Complaint capacity forecasting](https://github.com/S3R3Bii/complaint-capacity-forecasting) | SQL lineage, 102 aggregate source snapshots, 15-model comparison, forward validation and asymmetric decision costs |
+| [PostgreSQL data integrity](https://github.com/S3R3Bii/postgresql-data-integrity) | Transactional loading, replay idempotency, CTEs and window queries; 11 SQL assertions checked against an independent Python calculation |
+| [Universal EDA](https://github.com/S3R3Bii/universal-eda) | Configurable Python diagnostics, preprocessing and report generation, with a reproducible usage guide |
+| [Visual project gallery](https://github.com/S3R3Bii/project-portfolio) | Research, analytical applications and product interfaces, including PikiVu screenshots and the 50-study research register |
 
-The [PostgreSQL data-integrity project](https://github.com/S3R3Bii/postgresql-data-integrity) demonstrates transactional loading, replay idempotency, CTEs and window queries using fictional records. Its retained execution passed 11 SQL assertions, with results checked against an independent Python calculation. It is independent, AI-assisted work.
+The forecasting study asks whether a lower prediction error leads to a better capacity decision. Ridge reduced final-test normalized error by 16.4% against the selected simple baseline, but the capacity-policy comparisons remained uncertain. The repository retains every candidate and the source reconciliation that caught an API date-boundary defect before release.
+
+These repositories distinguish professional research from independent, AI-assisted work. The [interactive portfolio](https://james-jean-data-science.s3r3bii.chatgpt.site) provides additional context and visual demonstrations.
 
 I am pursuing quantitative research and analytics roles where I can investigate difficult data problems and develop useful models with a research team.
 
