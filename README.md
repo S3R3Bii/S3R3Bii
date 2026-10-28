@@ -18,7 +18,7 @@ I work with research data: joining records that do not agree, building statistic
 | [Universal EDA](https://github.com/S3R3Bii/universal-eda) | Configurable Python diagnostics, preprocessing and report generation, with a reproducible usage guide |
 | [Visual project gallery](https://github.com/S3R3Bii/project-portfolio) | Research, analytical applications and product interfaces, including PikiVu screenshots and the 50-study research register |
 
-The forecasting study asks whether a lower prediction error leads to a better capacity decision. Ridge reduced final-test normalized error by 16.4% against the selected simple baseline, but the capacity-policy comparisons remained uncertain. The repository retains every candidate and the source reconciliation that caught an API date-boundary defect before release.
+The forecasting study asks whether a lower prediction error leads to a better capacity decision. In its corrected retrospective evaluation, ridge reduced normalized error by 16.8% against the selected simple baseline, while capacity-policy comparisons remained uncertain and a trailing mean achieved lower raw RMSE. The repository retains every candidate, independent MAE/MSE/RMSE checks and the corrections to source-date and training-label availability errors.
 
 These repositories distinguish professional research from independent, AI-assisted work. The [interactive portfolio](https://james-jean-data-science.s3r3bii.chatgpt.site) provides additional context and visual demonstrations.
 
