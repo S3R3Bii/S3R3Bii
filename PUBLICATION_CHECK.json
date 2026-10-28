@@ -1,0 +1,13 @@
+{
+  "timestamp_utc": "2026-10-28T21:32:40.620800+00:00",
+  "status": "PASS_BOUNDED_SCAN",
+  "files_checked": 2,
+  "scope": "Intended tracked/nonignored files; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
+  "findings": [],
+  "sha256": {
+    "PUBLICATIONS.md": "3fc33e434403e02cdcd20be6cf6c80a41ea20731a704066f9a4de58cfc7a5bae",
+    "README.md": "9cdb41b0d163734374b2d03e7153c8b00238c8b46472b43c25960d1a22ca70b2"
+  },
+  "raw_source_members_excluded": true,
+  "manuscripts_excluded": true
+}
