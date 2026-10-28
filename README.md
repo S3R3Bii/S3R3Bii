@@ -19,6 +19,7 @@ I work with research data: joining records that do not agree, building statistic
 | [Maintenance inspection capture](https://github.com/S3R3Bii/maintenance-warning-horizons) | Engine-separated model selection, trajectory calibration, inspection-budget tradeoffs and a corrected retrospective evaluation with clean Linux replay |
 | [Auction-demand transfer](https://github.com/S3R3Bii/auction-demand-transfer) | SQL feature lineage, fourteen candidate trials, transparent baseline selection and independently recomputed quarter-block uncertainty |
 | [Decision-changing pipeline faults](https://github.com/S3R3Bii/decision-changing-pipeline-faults) | Decision-weighted integrity checks, held synthetic mechanisms and a quantified detection-review tradeoff |
+| [Tuning-budget transfer](https://github.com/S3R3Bii/tuning-budget-transfer) | Matched iteration ledgers, late-winning configuration audits and independently checked paired test losses |
 | [PostgreSQL data integrity](https://github.com/S3R3Bii/postgresql-data-integrity) | Transactional loading, replay idempotency, CTEs and window queries; 11 SQL assertions checked against an independent Python calculation |
 | [Universal EDA](https://github.com/S3R3Bii/universal-eda) | Configurable Python diagnostics, preprocessing and report generation, with a reproducible usage guide |
 | [Visual project gallery](https://github.com/S3R3Bii/project-portfolio) | Research, analytical applications and product interfaces, including PikiVu screenshots and the 50-study research register |
