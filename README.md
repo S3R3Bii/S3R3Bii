@@ -29,7 +29,7 @@ I work with research data: joining records that do not agree, building statistic
 
 The forecasting study asks whether a lower prediction error leads to a better capacity decision. In its corrected retrospective evaluation, ridge reduced normalized error by 16.8% against the selected simple baseline, while capacity-policy comparisons remained uncertain and a trailing mean achieved lower raw RMSE. The repository retains every candidate, independent MAE/MSE/RMSE checks and the corrections to source-date and training-label availability errors.
 
-Read the [research manuscripts](https://github.com/S3R3Bii/project-portfolio/blob/main/research-program/MANUSCRIPTS.md) for the methods, findings and limitations behind the released studies.
+Read the [research manuscripts](https://github.com/S3R3Bii/project-portfolio/blob/main/research-program/RESEARCH_PAPERS.md) for the methods, findings and limitations behind the released studies.
 
 These repositories distinguish professional research from independent, AI-assisted work. The [interactive portfolio](https://james-jean-data-science.s3r3bii.chatgpt.site) provides additional context and visual demonstrations.
 
