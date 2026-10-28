@@ -1,12 +1,12 @@
 {
-  "timestamp_utc": "2026-10-28T21:57:20.855343+00:00",
+  "timestamp_utc": "2026-10-28T22:37:02.493126+00:00",
   "status": "PASS_BOUNDED_SCAN",
   "files_checked": 3,
-  "scope": "Intended tracked/nonignored files; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
+  "scope": "Exact staged Git index bytes; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
   "findings": [],
   "sha256": {
     "PUBLICATIONS.md": "3fc33e434403e02cdcd20be6cf6c80a41ea20731a704066f9a4de58cfc7a5bae",
-    "README.md": "b5e8ab47289abb4620439b6360898a77bd2b85354649eaf9a98600048a81e018"
+    "README.md": "0026b6b52c690dbe17694c48fc306a7d6cf25817295264a33938befb87ecdf2b"
   },
   "raw_source_members_excluded": true,
   "manuscripts_excluded": true
