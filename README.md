@@ -21,6 +21,7 @@ I work with research data: joining records that do not agree, building statistic
 | [Decision-changing pipeline faults](https://github.com/S3R3Bii/decision-changing-pipeline-faults) | Decision-weighted integrity checks, held synthetic mechanisms and a quantified detection-review tradeoff |
 | [Tuning-budget transfer](https://github.com/S3R3Bii/tuning-budget-transfer) | Matched iteration ledgers, late-winning configuration audits and independently checked paired test losses |
 | [Prior-shift calibration](https://github.com/S3R3Bii/prior-shift-recalibration) | Independently certified probability adaptation, retained numerical corrections and explicit alert-cost failures |
+| [Sensor-loss abstention](https://github.com/S3R3Bii/sensor-loss-abstention) | Participant-held evaluation, complete threshold/model trials, independent Newton convergence checks and a quantified confident-error failure |
 | [PostgreSQL data integrity](https://github.com/S3R3Bii/postgresql-data-integrity) | Transactional loading, replay idempotency, CTEs and window queries; 11 SQL assertions checked against an independent Python calculation |
 | [Universal EDA](https://github.com/S3R3Bii/universal-eda) | Configurable Python diagnostics, preprocessing and report generation, with a reproducible usage guide |
 | [Visual project gallery](https://github.com/S3R3Bii/project-portfolio) | Research, analytical applications and product interfaces, including PikiVu screenshots and the 50-study research register |
