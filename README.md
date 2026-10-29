@@ -24,6 +24,7 @@ I work with research data: joining records that do not agree, building statistic
 | [Sensor-loss abstention](https://github.com/S3R3Bii/sensor-loss-abstention) | Participant-held evaluation, complete threshold/model trials, independent Newton convergence checks and a quantified confident-error failure |
 | [Demand explanation stability](https://github.com/S3R3Bii/demand-explanation-stability) | Independently checked model tuning and a measured accuracy-versus-explanation tradeoff under historical training-week perturbations |
 | [Cross-language forecast transfer](https://github.com/S3R3Bii/cross-language-attention) | Independent SQL/source and ridge certificates, all retained comparisons, and measured limits on parameter-selection transfer |
+| [Manufacturing energy accounting](https://github.com/S3R3Bii/manufacturing-energy-exposure) | Matched-price denominators, independently reconstructed LMDI and the limits of aggregate energy-intensity screens |
 | [PostgreSQL data integrity](https://github.com/S3R3Bii/postgresql-data-integrity) | Transactional loading, replay idempotency, CTEs and window queries; 11 SQL assertions checked against an independent Python calculation |
 | [Universal EDA](https://github.com/S3R3Bii/universal-eda) | Configurable Python diagnostics, preprocessing and report generation, with a reproducible usage guide |
 | [Visual project gallery](https://github.com/S3R3Bii/project-portfolio) | Research, analytical applications and product interfaces, including PikiVu screenshots and the 50-study research register |
