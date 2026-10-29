@@ -27,6 +27,7 @@ I work with research data: joining records that do not agree, building statistic
 | [Manufacturing energy accounting](https://github.com/S3R3Bii/manufacturing-energy-exposure) | Matched-price denominators, independently reconstructed LMDI and the limits of aggregate energy-intensity screens |
 | [Storm-damage ranking sensitivity](https://github.com/S3R3Bii/storm-damage-ranking) | Independent SQL/rational accounting, protected scenario calibration and dependence-aware limits on recorded-damage rankings |
 | [Recall counting granularity](https://github.com/S3R3Bii/recall-count-granularity) | Exact FDA identifier grains, independent SQL/rational checks and fair threshold comparisons with explicit snapshot and use limits |
+| [State fatality denominator sensitivity](https://github.com/S3R3Bii/road-safety-denominators) | Two-engine source verification, exact SQL/rational comparisons and explicit limits on rounded shares, report vintages and traveler exposure |
 | [PostgreSQL data integrity](https://github.com/S3R3Bii/postgresql-data-integrity) | Transactional loading, replay idempotency, CTEs and window queries; 11 SQL assertions checked against an independent Python calculation |
 | [Universal EDA](https://github.com/S3R3Bii/universal-eda) | Configurable Python diagnostics, preprocessing and report generation, with a reproducible usage guide |
 | [Visual project gallery](https://github.com/S3R3Bii/project-portfolio) | Research, analytical applications and product interfaces, including PikiVu screenshots and the 50-study research register |
