@@ -43,6 +43,7 @@ I work with research data: joining records that do not agree, building statistic
 | [Budget a buffer for day-ahead wind shortfalls](https://github.com/S3R3Bii/wind-shortfall-buffer) | A practical wind forecast review that separates point accuracy, shortfall coverage and explicit buffer-cost assumptions |
 | [Check a modeled retrofit choice against another weather case](https://github.com/S3R3Bii/retrofit-weather-choice) | Transparent retrofit screening that keeps modeled choice changes, missing scenarios and investment evidence separate |
 | [Check a solar-resource shortlist](https://github.com/S3R3Bii/solar-resource-shortlist) | Reproducible solar screening that keeps gridded resource, missing-day sensitivity and actual project feasibility distinct |
+| [Keep cotton quality in price alerts](https://github.com/S3R3Bii/cotton-grade-price-alerts) | Cotton quote ingestion, exact SQL/source reconciliation and a controlled implementation exercise with complete case exports |
 | [PostgreSQL data integrity](https://github.com/S3R3Bii/postgresql-data-integrity) | Transactional loading, replay idempotency, CTEs and window queries; 11 SQL assertions checked against an independent Python calculation |
 | [Universal EDA](https://github.com/S3R3Bii/universal-eda) | Configurable Python diagnostics, preprocessing and report generation, with a reproducible usage guide |
 | [Visual project gallery](https://github.com/S3R3Bii/project-portfolio) | Research, analytical applications and product interfaces, including PikiVu screenshots and the 50-study research register |
