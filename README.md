@@ -60,6 +60,7 @@ I work with research data: joining records that do not agree, building statistic
 | [Contract action counts and net obligations](https://github.com/S3R3Bii/contract-action-accounting) | Exact obligation accounting, independent SQL/calendar checks and a practical boundary between source records and staffing claims |
 | [Arrival-delay labels at the minute boundary](https://github.com/S3R3Bii/arrival-label-boundaries) | Source reconciliation, exact rates, independent SQL checks and a runnable label-contract exercise |
 | [Reported injury rates depend on exposure](https://github.com/S3R3Bii/injury-rate-denominators) | Independent native and SQL checks,complete sensitivity exports and a practical exposure-quality audit |
+| [Financial facts need their full context](https://github.com/S3R3Bii/financial-fact-contexts) | Independent native and SQL checks, complete key comparisons and a practical full-context fact lookup |
 | [PostgreSQL data integrity](https://github.com/S3R3Bii/postgresql-data-integrity) | Transactional loading, replay idempotency, CTEs and window queries; 11 SQL assertions checked against an independent Python calculation |
 | [Universal EDA](https://github.com/S3R3Bii/universal-eda) | Configurable Python diagnostics, preprocessing and report generation, with a reproducible usage guide |
 | [Visual project gallery](https://github.com/S3R3Bii/project-portfolio) | Research, analytical applications and product interfaces, including PikiVu screenshots and the 50-study research register |
